@@ -73,5 +73,3 @@ This project showcases a Smart Security Camera system that combines the ESP32-CA
 5. Upload the code to the ESP32-CAM.
 6. Start monitoring your environment with real-time updates via Telegram.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
